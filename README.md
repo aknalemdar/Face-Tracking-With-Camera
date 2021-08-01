@@ -4,16 +4,21 @@ opencv, serial converter, arduino, servo motor and webcam
 -----Adding a python library-----
 
 //Serial
+
 After running cmd as administrator on the computer, we write the following code:
+
 pip install serial
 
 //OpenCV
+
 After running cmd as administrator on the computer, we write the following code:
+
 pip install opencv-python
 
 -----Adding an Arduino library-----
 
 //Servo.h
+
 After writing servo in the library adding section in Arduino, we install the necessary plugins.
 
 -----Places to change in python code------
